@@ -1,10 +1,8 @@
-<h1 align="center">Hello, rownox here.</h1> <a href="https://discord.com/users/811580599068262421" target="_blank" rel="noreferrer">
+<h1 align="center">Hello, rownox here.</h1>
 
 Front and Back-end Developer
 ----------------------
 *   Check out my [portfolio](https://rownox.github.io/)
-
-### Contact Me
 *   Contact me at [rownox.ik@gmail.com](mailto:rownox.ik@gmail.com) or [rownox#0001](https://discord.com/)
 
 ### Statistics
