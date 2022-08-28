@@ -10,6 +10,6 @@ Front and Back-end Developer
 <b>My Stats</b>
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=rownox&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="My Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rownox&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rownox&show_icons=true&hide=&count_private=true&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=1c1917&hide_border=true&show_icons=true" alt="My Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rownox&langs_count=10&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
