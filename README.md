@@ -4,11 +4,10 @@ Front and Back-end Developer
 ----------------------
 
 *   Check out my [portfolio](https://rownox.github.io/)
-<br>
-Contact Me:
-[rownox.ik@gmail.com](mailto:rownox.ik@gmail.com)
-<a href="https://discord.com/users/811580599068262421" target="_blank" rel="noreferrer">
+*   Contact me at [rownox.ik@gmail.com](mailto:rownox.ik@gmail.com) or <a href="https://discord.com/users/811580599068262421" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+
+
 
 ### Skills
 <p align="left">
