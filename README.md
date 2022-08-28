@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Ntdi</h1>
+<h1 align="center">Hello, rownox here.</h1>
 <p align="center">
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Web+Developer;Open-Source+Enthusiast;Java+Developer;Spigot-API%20Developer;&center=true&width=500&height=50"></a>
 </p>
