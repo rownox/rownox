@@ -3,7 +3,7 @@
 Front and Back-end Developer
 ----------------------
 *   Check out my [portfolio](https://rownox.github.io/)
-*   Contact me at [rownox.ik@gmail.com](mailto:rownox.ik@gmail.com) or [rownox#0001](https://discord.com/)
+*   Contact me at [rownox.ik@gmail.com](mailto:rownox.ik@gmail.com)
 
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=rownox&show_icons=true&hide=&count_private=true&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=151718&hide_border=true&show_icons=true&custom_title=My%20%Stats" alt="My Stats" />
