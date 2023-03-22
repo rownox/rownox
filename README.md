@@ -4,4 +4,3 @@ Front and Back-end Developer
 ----------------------
 *   Check out my [portfolio](https://rownox.github.io/)
 
-![Metric](/github-metrics.svg)
