@@ -3,6 +3,5 @@
   Developer and Artist<br>
   Contact Me: rownox.ik@gmail.com<br>
   -----------------------<br>
-  <img src="/github-metrics.svg"></img>
 </div>
 
